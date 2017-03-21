@@ -1,0 +1,22 @@
+{
+  "name": "nono-cat-nodejs",
+  "version": "1.0.0",
+  "description": "nodejs client for cat",
+  "main": "index.js",
+  "dependencies": {
+    "node-aop": "0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangtleric/nono-cat-nodejs.git"
+  },
+  "author": "wangtleric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangtleric/nono-cat-nodejs/issues"
+  },
+  "homepage": "https://github.com/wangtleric/nono-cat-nodejs#readme"
+}
